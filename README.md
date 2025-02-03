@@ -1,3 +1,6 @@
+![Snake animation](https://raw.githubusercontent.com/ashirvad47/ashirvad47/output/github-contribution-grid-snake-dark.svg)
+
+
 ## Hi there 👋
 
 <!--
